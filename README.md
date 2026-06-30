@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK,AI/ML**
 
-- 👯 I’m looking to collaborate on **Cloud native projects**
+- 👯 I’m looking to collaborate on **Web development projects**
 
 - 🤝 I’m looking for help with **Full stack developments**
 
